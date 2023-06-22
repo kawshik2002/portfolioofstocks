@@ -134,6 +134,7 @@ def app():
 
             # Display the plot
             st.pyplot()
+#             st.set_option('deprecation.showPyplotGlobalUse', False)
             st.set_option('deprecation.showPyplotGlobalUse', False)
             # st.set_option('deprecation.showPyplotGlobalUse', False)
 
